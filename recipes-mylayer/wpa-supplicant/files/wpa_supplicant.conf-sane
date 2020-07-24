@@ -3,8 +3,8 @@ ctrl_interface_group=0
 update_config=1
 
 network={
-	ssid="TP-LINK"
+	ssid="The Promised LAN"
 	scan_ssid=1
-	psk="binecuvantare"
+	psk="promised783lan"
         key_mgmt=WPA-PSK
 }
